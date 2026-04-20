@@ -29,8 +29,8 @@ Captions are essential for engagement, but default styles are often unreadable o
 
 ### Installation
 ```bash
-git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/LuisMongeNarvaez/subtitle_automator]
+cd subtitle_automator
 
 # Recommended: use a virtual environment
 python -m venv venv
